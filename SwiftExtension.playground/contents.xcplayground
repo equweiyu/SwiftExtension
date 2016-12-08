@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Date+Extension'/>
+        <page name='String+Extension'/>
+        <page name='NSNumber+Extension'/>
+        <page name='UIColor+Extension'/>
+    </pages>
+</playground>
